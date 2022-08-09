@@ -8,11 +8,11 @@ public class switchdemo {
 		int a=10;
 		switch(a) {
 		
-		case 25 :System.out.println("Kiran");
-		break;
-		case 120:System.out.println("Swati");
-		break;
-		default:System.err.println("ram");
+//		case 10 :System.out.println("Kiran");
+//		break;
+//		case 120:System.out.println("Swati");
+//		break;
+	//	default:System.err.println("ram");
 		}
 		
 	}
